@@ -3,7 +3,7 @@ LIMITE_ESTOQUE = 100
 
 # Define a estrutura de dados para o produto
 class Produto:
-    def _init_(self):
+    def __init__(self):
         self.nomeproduto = ""
         self.quantidade = 0
         self.preco = 0.0
