@@ -11,8 +11,7 @@ Este projeto foi desenvolvido como parte de um trabalho em Python sobre uma Cafe
 
 - **funcoescafe.py:** Este arquivo contém as funções principais que são usadas para gerenciar diferentes aspectos das operações da cafeteria.
 - **main.py:** Este é o arquivo principal que chama as funções relevantes e executa a lógica principal do programa.
-- **todo.py:** Este arquivo contém a lista de tarefas a serem feitas ou implementadas no futuro, servindo como uma referência para o desenvolvimento contínuo do projeto.
-
+  
 ## Instruções de Uso
 
 1. Certifique-se de ter Python instalado em seu sistema.
